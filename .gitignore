@@ -50,3 +50,7 @@ tsconfig.spec.json
 tslint.json
 package.json
 package-lock.json
+karma.conf.js
+angular.json
+.editorconfig
+.browserslistrc
